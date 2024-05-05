@@ -2,9 +2,8 @@ from torch.optim.optimizer import Optimizer, required
 import copy
 
 class Delta-GClip(Optimizer):
-   def __init__(self, params, lr=required, kappa = 1000.0):
-        defaults = dict(lr=lr, kappa=kappa, xi=xi, smallConst=smallConst,
-                        weight_decay=weight_decay)
+   def __init__(self, params, lr=required, delta=required, gamma=required, weight_decay):
+        defaults = dict(weight_decay=weight_decay)
         super(Delta-GClip, self).__init__(params, defaults)
 
 
