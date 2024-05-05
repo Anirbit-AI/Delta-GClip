@@ -1,5 +1,6 @@
 from torch.optim.optimizer import Optimizer, required
 import copy
+import torch
 
 class deltaGClip(Optimizer):
     def __init__(self, params, lr=0.1, delta=1e-03, gamma=0.25):
