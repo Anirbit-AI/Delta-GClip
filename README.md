@@ -3,7 +3,7 @@ https://drive.google.com/file/d/1lkEgUJewOTpIpDoweyK985nXC5-RjkJ3/view?usp=shari
 
 Example: <br/>
                 >>> from Delta-GClip import * <br/>
-                >>> optimizer = deltaGClip-c(model.parameters(), lr=0.5, delta=1e-03, gamma=1) <br/>
+                >>> optimizer = deltaGClip_c(model.parameters(), lr=0.5, delta=1e-03, gamma=1) <br/>
                 >>> optimizer.zero_grad() <br/>
                 >>> loss_fn(model(input), target).backward() <br/>
                 >>> optimizer.step()<br/>
