@@ -1,4 +1,5 @@
->>> *In the code Delta-GClip-c we give a package implementation of a *variant* of the delta-GClip optimizer get - which was recently shown to be a (possibly the only) step-length scheduling algorithm that provably converges on deep neural net losses, https://arxiv.org/abs/2404.08624. In this -c variant the norm of the gradient of the loss (based on which the modified clipping is done) is replaced by the norm of the partial derivative of the loss w.r.t the parameter being updated - thus effectively now we have different adaptive learning rates for each parameter of the model. * 
+> *In the code Delta-GClip-c we give a package implementation of a *variant* of the delta-GClip optimizer get - which was recently shown to be a (possibly the only) step-length scheduling algorithm that provably converges on deep neural net losses, https://arxiv.org/abs/2404.08624. In this -c variant the norm of the gradient of the loss (based on which the modified clipping is done) is replaced by the norm of the partial derivative of the loss w.r.t the parameter being updated - thus effectively now we have different adaptive learning rates for each parameter of the model. * In the following link one can see a demonstration od delta-Gclip-c with transformers, <br/>
+https://drive.google.com/file/d/1lkEgUJewOTpIpDoweyK985nXC5-RjkJ3/view?usp=sharing
 
 Example: <br/>
         >>> from Delta-GClip import * <br/>
@@ -7,5 +8,4 @@ Example: <br/>
         >>> loss_fn(model(input), target).backward() <br/>
         >>> optimizer.step()<br/>
 
-In the following link one can see a demonstration od delta-Gclip-c with transformers, <br/>
-https://drive.google.com/file/d/1lkEgUJewOTpIpDoweyK985nXC5-RjkJ3/view?usp=sharing
+
