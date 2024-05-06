@@ -1,4 +1,4 @@
->>> **In the code Delta-GClip-c we give a package implementation of a *variant* of the delta-GClip optimizer get - which was recently shown to be a (possibly the only) step-length scheduling algorithm that provably converges on deep neural net losses, https://arxiv.org/abs/2404.08624. In this -c variant **
+>>> *In the code Delta-GClip-c we give a package implementation of a *variant* of the delta-GClip optimizer get - which was recently shown to be a (possibly the only) step-length scheduling algorithm that provably converges on deep neural net losses, https://arxiv.org/abs/2404.08624. In this -c variant *
 
 Example: <br/>
         >>> from Delta-GClip import * <br/>
