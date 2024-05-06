@@ -1,3 +1,5 @@
+UPDATE [12:30pm, 6th May] : Do NOT use this code. Some critical changes are being made. 
+
 Example:
         >>> from Delta-GClip import * <br/>
         >>> optimizer = deltaGClip(model.parameters(), lr=0.5, delta=1e-03, gamma=1) <br/>
