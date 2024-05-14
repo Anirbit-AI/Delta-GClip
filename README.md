@@ -11,6 +11,26 @@ Example: <br/>
 
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Anirbit-AI">
+                    <img src="https://avatars.githubusercontent.com/u/106439647?v=4" width="100;" alt="Anirbit-AI"/>
+                    <br />
+                    <sub><b>Anirbit </b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/procheta">
+                    <img src="https://avatars.githubusercontent.com/u/16814552?v=4" width="100;" alt="procheta"/>
+                    <br />
+                    <sub><b>PROCHETA SEN</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
        
