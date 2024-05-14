@@ -10,7 +10,7 @@ Example: <br/>
                 >>> optimizer.step()<br/>
 
 
-<!-- readme: contributors -start -->
+<!-- readme: contributors, collaborators -start -->
 <table>
 	<tbody>
 		<tr>
@@ -31,7 +31,7 @@ Example: <br/>
 		</tr>
 	<tbody>
 </table>
-<!-- readme: contributors -end -->
+<!-- readme: contributors, collaborators -end -->
 
        
 
