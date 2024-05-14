@@ -9,6 +9,10 @@ Example: <br/>
                 >>> loss_fn(model(input), target).backward() <br/>
                 >>> optimizer.step()<br/>
 
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
        
 
 
