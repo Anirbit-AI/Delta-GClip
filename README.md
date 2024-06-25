@@ -33,6 +33,13 @@ Example: <br/>
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/akhilendra1811">
+                    <img src="https://avatars.githubusercontent.com/u/96082666?v=4" width="100;" alt="akhilendra1811"/>
+                    <br />
+                    <sub><b>Akhilendra Sabherwal</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Anirbit-AI">
                     <img src="https://avatars.githubusercontent.com/u/106439647?v=4" width="100;" alt="Anirbit-AI"/>
                     <br />
